@@ -1,0 +1,45 @@
+id,provider_name,city,availability,category,delivery,self_pickup
+preprod.xpressbaazaar.com:13955021-c4f7-4260-b6cb-9fbc8dae9d4f:13955021-c4f7-4260-b6cb-9fbc8dae9d4f,lakme,Mumbai,True,Beauty & Personal Care,True,False
+ondc-api.kiko.live/ondc-seller-v2:665463fb5d4d16473e87a82f:location-665463fb5d4d16473e87a82f,vishal yadav,indore,True,Beauty & Personal Care,True,False
+ondc-preprod.zeppstore.in:ZEPP:wfhlb-1000,Zeitgeist Retail Private Limited,Bangalore,True,Electronics,True,False
+pramaan.ondc.org/alpha/mock-server:pramaan.ondc.org/alpha/mock-server:f13873c1-810d-4f2b-ba54-5edcec9f0e4a,WITS ONDC TEST STORE,New Delhi,True,Electronics,True,True
+seller-app-preprod-v2.ondc.org:14978f04-f621-46e5-ba40-3a14eb3982d9:14978f04-f621-46e5-ba40-3a14eb3982d9,Wits test store,New Delhi,True,F&B,True,True
+seller-app-preprod-v2.ondc.org:7d6da685-be8c-4170-9aed-8944563cba89:65310dc78591c7cb011a8200,Mauli,New Delhi,True,F&B,True,True
+ondc-api.kiko.live/ondc-seller-v2:6386154b42674fabf7bdabf4:location-6386154b42674fabf7bdabf4,Vijendra Grocery Store,Bangalore,True,F&B,True,False
+ondc.wallic.io:262cfaab-0e4d-4903-b03e-7c516b73c1e8:B55231,ABC Pizza Store,Bengalore,True,F&B,True,False
+ondc.wallic.io:262cfaab-0e4d-4903-b03e-7c516b73c1e8:B55232,ABC Pizza Store,Bengaluru,True,F&B,True,False
+ondc.wallic.io:8acd7b77-41f1-442f-894f-a52861ab2533:BXXp4rYjP60T,Snitch,Delhi,True,F&B,True,False
+ondc.wallic.io:7e056c4f-ed50-4492-8f0a-9936328bd278:yjoRztSyWjyY,Brik Oven,Bengalore,True,F&B,True,True
+ondc.wallic.io:8e743f12-5735-4094-889d-65c83453da9c:B332,SPICY TREAT,Bengalore,True,F&B,True,True
+ondc.wallic.io:33cb0d60-f5f3-4b55-8035-3d6a0bc477ce:AdPYrRTSDDax,Burger king,Bengaluru,True,F&B,True,False
+ondc.wallic.io:e47542c6-7726-4bb7-92ea-c6c93208202e:c0VLSofXwHcT,XYZ Store,Bengaluru,True,F&B,True,True
+preprod.ondc.adya.ai:CANARAADYAPROVIDER275:CANARAADYALOCATION74,Desi Store,Hyderabad,True,F&B,True,True
+preprod.ondc.adya.ai:CANARAADYAPROVIDER275:CANARAADYALOCATION71,Desi Store,Bengaluru,True,F&B,True,True
+preprod.ondc.adya.ai:CANARAADYAPROVIDER296:CANARAADYALOCATION82,NewLook,Hyderabad,True,F&B,True,False
+preprod.ondc.adya.ai:CANARAADYAPROVIDER296:CANARAADYALOCATION83,NewLook,Bengaluru,True,F&B,True,False
+ondc-seller.extensions.uat.fyndx1.de:767:14777,Majestic,Dombivli,True,Fashion,True,True
+ondc-seller.extensions.uat.fyndx1.de:2247:14026,JADE BLUE LIFESTYLE INDIA LIMITED,Mumbai,True,Fashion,True,True
+seller-app-preprod-v2.ondc.org:05faf1b6-9133-4b7a-b5f7-6450c02216cc:05faf1b6-9133-4b7a-b5f7-6450c02216cc,sultan,New Delhi,True,Fashion,True,True
+preprod.xpressbaazaar.com:79e060e7-a8f9-4c56-8e55-2b3321ccce87:79e060e7-a8f9-4c56-8e55-2b3321ccce87,Zykaa,Noida,True,Fashion,True,False
+seller-app-preprod-v2.ondc.org:3dc6283b-802e-4a9f-915c-a3285abe0437:65546daea09c9b8395cd37c7,clothings,New Delhi,True,Fashion,True,True
+seller-app-preprod-v2.ondc.org:38eb9709-13fb-4343-96eb-1407a6df444a:653125120feb3c48a501ae0b,Hiren,New Delhi,True,Fashion,True,True
+integrations-preprod.channelier.com:CU254:L1,Bodycare, South West Delhi,True,Fashion,True,False
+isnapp.adya.ai:ISNPROVIDER2:CANARAADYALOCATION221,Adya,New Delhi,True,Fashion,True,False
+isnapp.adya.ai:ISNPROVIDER2:CANARAADYALOCATION233,Adya,Mumbai,True,Fashion,True,False
+isnapp.adya.ai:ISNPROVIDER2:CANARAADYALOCATION234,Adya,Kolkata,True,Fashion,True,False
+seller-app-preprod-v2.ondc.org:248b558b-6dd0-442e-8a12-f6521f670618:65e01ab75d950b98d175ceb2,KK Store,New Delhi,True,Fashion,True,True
+preprod-sellerapp.shiprocket.com:7dcda1d3eec30eea14829b3773354cd5:7dcda1d3eec30eea14829b3773354cd5,BIGFOOT RETAIL SOLUTIONS PRIVATE LIMITED,West Delhi,True,Fashion,True,False
+ondc-seller.extensions.uat.fyndx1.de:16288:45173,ONDC GROCERY,Mumbai,True,Grocery,True,True
+seller-app-preprod-v2.ondc.org:c7d703e4-bd01-4bd6-b171-57fadbf58668:c7d703e4-bd01-4bd6-b171-57fadbf58668,Lol,New Delhi,True,Grocery,True,True
+seller-app-preprod-v2.ondc.org:1f76eaa6-137a-4cc7-a224-884d1acd8617:66347ddc5b11e0e33bcccb79,MartPe Super Store,New Delhi,True,Grocery,True,True
+seller-app-preprod-v2.ondc.org:141dcf9c-7165-48fa-84ff-5584279ca7ec:6601a0b6d8852db9f0685d57,Otipy Delhi,New Delhi,True,Grocery,True,True
+uatesaras.digitalindiacorporation.in:p1:l1,Esaras Store,New Delhi,True,Grocery,True,False
+preprod-nestle-bpp.shopalyst.com:preprod-nestle-bpp.shopalyst.com:9cb030055223ff2bdf59ba938d67092f,MyNestlé,New Delhi,True,Grocery,True,False
+seller-app-preprod-v2.ondc.org:b602d01f-8a48-422b-9214-f2fdc4285cec:b602d01f-8a48-422b-9214-f2fdc4285cec,Annu vaii,New Delhi,True,Grocery,True,True
+ondc.dpicorp.io:6203b5bf3aae670023897520:65f6e445d14a0b0c56ef2b9a,Gvv,Bangalore,True,Grocery,True,True
+ondc-seller.jiox3.de:6746:1007,Smart bazaar,Mumbai,True,Grocery,True,True
+ondc-seller.jiox3.de:6746:1004,Smart bazaar,Mumbai,True,Grocery,True,True
+pramaan.ondc.org/alpha/mock-server:9a99caf8-a279-4531-a45d-b546d716f74a:6068f03f-e5c5-421b-b5c8-ec8d0558e4c5,WITS MSN ONDC DUMMY TEST STORE,New Delhi,True,Health & Wellness,True,True
+pramaan.ondc.org/alpha/mock-server:9a99caf8-a279-4531-a45d-b546d716f74a:7ad4bc50-5442-4901-82c8-eefc0e807710,WITS MSN ONDC DUMMY TEST STORE,New Delhi,True,Health & Wellness,True,True
+retailconnect.co.in:ONDC-STORE-GGN:ONDC-STORE-GGN,ITC Store,Gurgaon,True,Health & Wellness,True,False
+ondc-seller.extensions.uat.fyndx1.de:24100:78194,Majestic Home & Kitchen RET 16,Mumbai,True,Home & Decor,True,True
